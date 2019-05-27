@@ -1,0 +1,6 @@
+D:\Program\MyProdukt\C#-Demo\Econder\Encode\bin\Debug\Encode.dll
+D:\Program\MyProdukt\C#-Demo\Econder\Encode\bin\Debug\Encode.pdb
+D:\Program\MyProdukt\C#-Demo\Econder\Encode\obj\Debug\Encode.csprojAssemblyReference.cache
+D:\Program\MyProdukt\C#-Demo\Econder\Encode\obj\Debug\Encode.csproj.CoreCompileInputs.cache
+D:\Program\MyProdukt\C#-Demo\Econder\Encode\obj\Debug\Encode.dll
+D:\Program\MyProdukt\C#-Demo\Econder\Encode\obj\Debug\Encode.pdb
